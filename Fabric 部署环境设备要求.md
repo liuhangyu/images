@@ -25,3 +25,12 @@
 3、对存储要求至少500GB 建议1T
 4、系统要求linux
 
+
+参照：
+https://www.asus.com.cn/Commercial-Servers-Workstations/RS100-E9-PI2/HelpDesk_CPU/
+
+华硕服务器产品：
+http://www.asus.com.cn/Commercial-Servers-Workstations/
+
+E9代产品：
+https://www.asus.com.cn/Commercial-Servers-Workstations/RS300-E9-RS4/specifications/
